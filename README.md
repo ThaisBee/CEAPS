@@ -1,4 +1,4 @@
-# ANALISANDO E TRATADO DADOS DO CEAPS  
+# Uma análise de séries temporais dos dados do CEAPS
 
 Neste trabalho foi usado um dataset coletado do portal do CEAPS (Cota para Exercício da Atividade Parlamentar dos Senadores). Nesse DataSet temos informações a respeito dos gastos declarados dos senadores. O objetivo deste tralho foi limpar e tratar os dados para realizar análises relacionadas aos gastos dos senadores.
 
